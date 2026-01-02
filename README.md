@@ -124,6 +124,10 @@ Para provar que o sistema está distribuindo a carga entre os containers (Micros
 | ***HOST_ID***         |
 
 
+| ***Status Host_ID_01***                                          | ***Status Host_ID_02*** | ***Status Host_ID_03*** |
+|:-----------------------------------------------------------------|:----------------------|:----------------------|
+| <img src="./img/host01.png" alt="Status host_id" width="260px"/> |<img src="./img/host02.png" alt="Status host_id" width="260px"/>|<img src="./img/host03.png" alt="Status host_id" width="260px"/>|
+
 >Observe que o campo ```host``` muda a cada atualização, confirmando que diferentes containers estão atendendo suas requisições.
 
 ### 📂 Estrutura de ArquivosPlaintext
