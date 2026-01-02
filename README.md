@@ -130,7 +130,7 @@ Para provar que o sistema está distribuindo a carga entre os containers (Micros
 
 >Observe que o campo ```host``` muda a cada atualização, confirmando que diferentes containers estão atendendo suas requisições.
 
-### 📂 Estrutura de ArquivosPlaintext
+### 📂 Estrutura de Arquivos
 
 ```PlainText
 ├── backend/
